@@ -10,7 +10,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
 
     private Application(){
-
     }
 
     public static void main(String[] args){
